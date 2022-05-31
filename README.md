@@ -26,6 +26,6 @@ Project Process: (Avg approx 2hrs for each)
 6) Thu 16th Jun 2022 - UI for everything
 7) Tue 21st Jun 2022 - Project 1 for Projects(carousel)
 8) Thu 23rd Jun 2022 - Project 2 for Projects(carousel) 
-9) Tue 27th Jun 2022 - Project 3 for Projects(carousel)
+9) Tue 28th Jun 2022 - Project 3 for Projects(carousel)
 10) Thu 30th Jun 2022 - Confirm everything
 
