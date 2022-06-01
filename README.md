@@ -17,7 +17,7 @@ Collaborators/Credit:
 License: nil-
 
 Project Process: (Avg approx 2hrs for each)
-0) All - Git!
+[All - Git!]
 1) Tue 31st May 2022 - Wireframe on Notion [https://complete-jeep-f2c.notion.site/Wireframe-d6c7d9b79f434bd6af5209d1e77c44b6]; draft for layout, Home
 2) Thu 2nd Jun 2022 - Projects(carousel container) 
 3) Tue 7th Jun 2022 - Contact(form)
